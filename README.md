@@ -3,9 +3,8 @@
 This is a template for the *Design for Physical Prototyping* project documentation. 
 It is a modified version of the *bare-minimum* [Jekyll] template [Just the Docs].
 It can be built and published on [GitHub Pages].
-For information on how to use the theme see the [just-the-docs Documentation](https://just-the-docs.github.io/just-the-docs/).
 
-**To get started with creating a site, create your own instance of this repository by clicking "[use this template]"!**
+To get started with creating a site, clone this repository by clicking "[use this template]"!
 
 After completing the creation of your new site on GitHub, update it as needed:
 
@@ -20,7 +19,6 @@ Update the following files to your own content:
 
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
 [Here](https://commonmark.org/help/) you can find a reference and a tutorial for getting started.
-
 
 ## Publishing your site on GitHub Pages
 
