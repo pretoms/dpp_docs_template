@@ -1,17 +1,10 @@
-# just-the-docs-template
+# DPP documentation template
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This is a template for the *Design for Physical Prototyping* project documentation. 
+It is a modified version of the *bare-minimum* [Jekyll] template [Just the Docs].
+It can be built and published on [GitHub Pages].
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
-
-To get started with creating a site, just click "[use this template]"!
+To get started with creating a site, clone this repository by clicking "[use this template]"!
 
 After completing the creation of your new site on GitHub, update it as needed:
 
@@ -20,32 +13,12 @@ After completing the creation of your new site on GitHub, update it as needed:
 Update the following files to your own content:
 
 - `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+- `README.md` (replace it with your text or just keep it empty: information for those who access your site repo on GitHub)
 
-## Changing the version of the theme and/or Jekyll
+## Get familiar with Markdown
 
-Simply edit the relevant line(s) in the `Gemfile`.
-
-## Adding a plugin
-
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
-
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
-
-- Add the following to your site's `Gemfile`:
-
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
-
-- And add the following to your site's `_config.yml`:
-
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-  
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+[Here](https://commonmark.org/help/) you can find a reference and a tutorial for getting started.
 
 ## Publishing your site on GitHub Pages
 
@@ -68,36 +41,11 @@ Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key inst
     - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
     - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
 
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[Just the Docs]: https://github.com/just-the-docs/just-the-docs-template
 [GitHub Pages]: https://docs.github.com/en/pages
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+[use this template]: https://github.com/pretoms/dpp_docs_template/generate
