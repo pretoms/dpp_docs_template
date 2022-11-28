@@ -26,17 +26,17 @@ For Just the Docs specific information reference the [documentation page](https:
 
 ## Publishing your site on GitHub Pages
 
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
+1.  If your created site is `YOUR-GITHUB-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
 
     ```yaml
     title: YOUR TITLE
     description: YOUR DESCRIPTION
     theme: just-the-docs
 
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
+    url: https://YOUR-GITHUB-USERNAME.github.io/YOUR-SITE-NAME
 
     aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+      Template Repository: https://github.com/YOUR-GITHUB-USERNAME/YOUR-SITE-NAME
     ```
 
 2.  Push your updated `_config.yml` to your site on GitHub.
