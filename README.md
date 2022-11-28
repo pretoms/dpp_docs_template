@@ -12,13 +12,17 @@ After completing the creation of your new site on GitHub, update it as needed:
 
 Update the following files to your own content:
 
-- `my_project/my_project.md` rename folder and file to project name
+- `my_project/my_project.md` rename project folder and main file to your specific project name
 - `README.md` (information for those who access your site repo on GitHub: replace it with your text or just delete content and leave it empty)
 
-## Get familiar with Markdown
+Put all images, videos and GIFs you want to embed in your documentation into the assets folder.
+
+## Get familiar with Markdown & Just the Docs
 
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
 [Here](https://commonmark.org/help/) you can find a reference and a tutorial for getting started.
+
+For Just the Docs specific information reference the [documentation page](https://just-the-docs.github.io/just-the-docs/). 
 
 ## Publishing your site on GitHub Pages
 
