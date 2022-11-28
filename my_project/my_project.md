@@ -1,9 +1,10 @@
 ---
 title: My Project
 layout: home
-parent: Project Documentation Collection
+nav_order: 3
 has_children: true
 ---
+
 
 # My Project (project name)
 
