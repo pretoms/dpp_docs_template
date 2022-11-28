@@ -1,6 +1,6 @@
 ---
+layout: default
 title: Project Collection
-layout: home
 description: DPP1 Design for Physical Prototyping (IM VZ WS22)
 nav_order: 1
 ---

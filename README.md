@@ -12,8 +12,8 @@ After completing the creation of your new site on GitHub, update it as needed:
 
 Update the following files to your own content:
 
-- `index.md` (your new home page)
-- `README.md` (replace it with your text or just keep it empty: information for those who access your site repo on GitHub)
+- `my_project/my_project.md` rename folder and file to project name
+- `README.md` (information for those who access your site repo on GitHub: replace it with your text or just delete content and leave it empty)
 
 ## Get familiar with Markdown
 
