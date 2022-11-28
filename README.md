@@ -2,9 +2,9 @@
 
 This is a template for the *Design for Physical Prototyping* project documentation. 
 It is a modified version of the *bare-minimum* [Jekyll] template [Just the Docs].
-It can be built and published on [GitHub Pages].
+It can be built and published on [GitHub Pages]. This repository will look like [this](https://pretoms.github.io/dpp_docs_template/) when built.
 
-To get started with creating a site, clone this repository by clicking "[use this template]"!
+**To get started with creating a site, clone this repository by clicking "[use this template]"!**
 
 After completing the creation of your new site on GitHub, update it as needed:
 
@@ -26,17 +26,17 @@ For Just the Docs specific information reference the [documentation page](https:
 
 ## Publishing your site on GitHub Pages
 
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
+1.  If your created site is `YOUR-GITHUB-USERNAME/YOUR-REPO-NAME`, update `_config.yml` to:
 
     ```yaml
     title: YOUR TITLE
     description: YOUR DESCRIPTION
     theme: just-the-docs
 
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
+    url: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME
 
     aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+      Template Repository: https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME
     ```
 
 2.  Push your updated `_config.yml` to your site on GitHub.
