@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet.
 
 Lorem ipsum dolor sit amet.
 
-![Demo](assets/demo.mp4)
+{% video assets/demo.mp4 %}
 
 ## Materials and tools
 
