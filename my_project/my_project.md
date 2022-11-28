@@ -4,7 +4,6 @@ layout: home
 has_children: true
 ---
 
-
 # My Project (project name)
 
 Project documentation for the **Design for Physical Prototyping** course 2022/23 focusing on the topic of **Uncomfortable Devices**.
@@ -44,3 +43,6 @@ What materials and hardware did you use in your iterations and your final protot
 
 Shortly summarize your project implementation process and the resulting outcome.
 What problems and limitations did you face? What experiences did you make 
+
+{: .note }
+Edit this page and all the subpages according to the specifics of your project. You don't need to use the provided headlines, just keep it well structured. If one part of the documentation gets too lengthy put into a subpage.
