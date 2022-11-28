@@ -1,9 +1,9 @@
 ---
-title: Home
+title: The Predictor
 layout: home
 ---
 
-# The Predictor
+# The Predictor (project name)
 
 Project documentation for the **Design for Physical Prototyping** course 2022/23 focusing on the topic of **Uncomfortable Devices**.
 
