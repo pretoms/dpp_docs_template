@@ -2,9 +2,9 @@
 
 This is a template for the *Design for Physical Prototyping* project documentation. 
 It is a modified version of the *bare-minimum* [Jekyll] template [Just the Docs].
-It can be built and published on [GitHub Pages].
+It can be built and published on [GitHub Pages]. This repository will look like [this](https://pretoms.github.io/dpp_docs_template/) when built.
 
-To get started with creating a site, clone this repository by clicking "[use this template]"!
+**To get started with creating a site, clone this repository by clicking "[use this template]"!**
 
 After completing the creation of your new site on GitHub, update it as needed:
 
