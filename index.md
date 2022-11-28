@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet. This project builds upon the idea of [Chindōgu](htt
 
 Here you could summarize your project proposal. How did you plan to build your prototype? Did you arrive at your idea immediately or did you iterate over it? Describe your process. 
 
-![Chopsticks](chopsticks.jpg)
+![Chopsticks](assets/chopsticks.jpg)
 
 ## Implementation
 
