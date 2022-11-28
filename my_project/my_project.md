@@ -1,7 +1,6 @@
 ---
 title: My Project
 layout: home
-nav_order: 3
 has_children: true
 ---
 
@@ -19,7 +18,7 @@ Lorem ipsum dolor sit amet. This project builds upon the idea of [Chindōgu](htt
 
 Here you could summarize your project proposal. How did you plan to build your prototype? Did you arrive at your idea immediately or did you iterate over it? Describe your process. 
 
-![Chopsticks](my_project/assets/chopsticks.jpg)
+![Chopsticks](assets/chopsticks.jpg)
 
 ## Implementation
 
