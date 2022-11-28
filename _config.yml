@@ -1,8 +1,8 @@
-title: PP Template
+title: DPP Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://pretoms.github.io/pp_docs_example
+url: https://pretoms.github.io/dpp_docs_template
 
 aux_links:
-  Template Repository: https://github.com/pretoms/pp_docs_example
+  Template Repository: https://github.com/pretoms/dpp_docs_template
