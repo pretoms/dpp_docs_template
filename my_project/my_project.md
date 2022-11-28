@@ -35,9 +35,13 @@ Lorem ipsum dolor sit amet.
 
 Lorem ipsum dolor sit amet.
 
+![Demo](assets/demo.mp4)
+
 ## Materials and tools
 
 What materials and hardware did you use in your iterations and your final prototypes? Did you modify any ready-made devices? Did you build it from scratch? What tools did you use to implement your prototype?
+
+![Application](assets/simone.gif)
 
 ## Conclusion
 
