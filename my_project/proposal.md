@@ -5,4 +5,14 @@ parent: My Project
 nav_order: 1
 ---
 
-The project proposal.
+# Project proposal
+
+The inital project concept.
+
+## Time plan
+
+| Description | Due date |
+| ----------- | -------- |
+|             |          |
+|             |          |
+|             |          |
